@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full restaurant census covering Cary, North Carolina with a population of over 174k. Filtered by the Restaurants category group, providing business profiles, review counts, contact information, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Cary, North Carolina, US",
+  "export_job_id": "e336c7f1-26be-4380-93a3-67f261d64a11",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 230708,
+  "location_name": "Cary",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-cary-north-carolina-us-sample-230708",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/230708/beamstation_230708_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 9.78,
+  "sample_records": 9,
+  "sample_sha256": "92497a5f60e8b9d70cd7f7c2ca3bc353aa7a57b5c30fe659d8eae48bc9a3931c",
+  "sample_size_bytes": 50465,
+  "total_records": 92,
+  "updated_at": "2026-03-31T14:56:00.201062+00:00"
+}
