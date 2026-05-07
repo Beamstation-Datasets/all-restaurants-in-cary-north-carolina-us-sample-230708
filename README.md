@@ -1,6 +1,6 @@
 # All Restaurants in Cary, North Carolina, US
 
-> Free BeamStation sample export with 13 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `230708` |
 | Location | Cary |
 | Category | Restaurants |
-| Full dataset size | 136 records |
-| Free sample size | 13 records (9.56%) |
-| Last export | 2026-04-28T17:47:49.959467+00:00 |
+| Full dataset size | 154 records |
+| Free sample size | 15 records (9.74%) |
+| Last export | 2026-05-06T22:55:57.466241+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-cary-north-carolina-us-sample-230708/releases/download/sample-latest/beamstation_230708_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
