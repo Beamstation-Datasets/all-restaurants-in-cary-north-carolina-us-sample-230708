@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c050b927-a238-408c-b0e0-474011652a2a",
+  "export_job_id": "9803f866-13bc-4223-9559-f8b12da17e1c",
   "id_short": 230708,
-  "published_at": "2026-04-28T19:13:53Z",
+  "published_at": "2026-05-07T07:08:04Z",
   "repo_name": "all-restaurants-in-cary-north-carolina-us-sample-230708",
   "sample_asset_name": "beamstation_230708_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/230708/beamstation_230708_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 13,
-  "sample_sha256": "6f97c2eb89fe5ca147b8ba995c599e95af9eeae421ae7507591c19adc2f75580",
-  "sample_size_bytes": 60081,
-  "total_records": 136
+  "sample_records": 15,
+  "sample_sha256": "5362b442d50bca3e06d367809f6b6508fda84c19e2ec4edfdfe0824a81edae59",
+  "sample_size_bytes": 63310,
+  "total_records": 154
 }
